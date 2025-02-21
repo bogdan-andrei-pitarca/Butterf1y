@@ -20,8 +20,8 @@ Upon entering our webiste, the students are presented with a descriptive and aes
 
 This is a **group project** made during the 16th edition of ***Polihack***. The participants are:
 
-*Pitarca Bogdan-Andrei* - back-end developer,
-*Butuza Raisa-Briana* - UI/UX designer & business manager,
-*Sofan Laurentiu-Mihai* - back-end developer,
-*Popescu Ciprian* - back-end developer,
-*Crisciu Dario-Alexandru* - front-end developer.
+***Pitarca Bogdan-Andrei*** - back-end developer,
+***Butuza Raisa-Briana*** - UI/UX designer & business manager,
+***Sofan Laurentiu-Mihai*** - back-end developer,
+***Popescu Ciprian*** - back-end developer,
+***Crisciu Dario-Alexandru*** - front-end developer.
