@@ -16,5 +16,12 @@ Upon entering our webiste, the students are presented with a descriptive and aes
 - ***Profile Page***: An overview of your personal Butterf1y account.
 - ***Footer***: The website's contact information.
 
+# Credits 🖋
 
+This is a **group project** made during the 16th edition of ***Polihack***. The participants are:
 
+*Pitarca Bogdan-Andrei* - back-end developer,
+*Butuza Raisa-Briana* - UI/UX designer & business manager,
+*Sofan Laurentiu-Mihai* - back-end developer,
+*Popescu Ciprian* - back-end developer,
+*Crisciu Dario-Alexandru* - front-end developer.
